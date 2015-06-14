@@ -1,11 +1,1 @@
-# shouter
 
-Heroku tutorial for Developing and Deploying Database-Backed Clojure Web
-Applications on Heroku.
-
-http://devcenter.heroku.com/articles/clojure-web-application
-
-#Usage
-
-To see the web app running, click
-http://shouter-heroku-tut.herokuapp.com
